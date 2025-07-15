@@ -16,11 +16,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 # Prerequisites
 Python 3.8+
 Git
-Installation & Setup
+Gemini API key
+
+## Installation & Setup
 Clone the repository:
 Generated sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/raevmood/medical-chatbot.git
+cd medical-chatbot
 Create and activate a virtual environment:
 # For Windows
 python -m venv venv

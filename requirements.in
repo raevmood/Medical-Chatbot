@@ -1,5 +1,4 @@
-fastapi
-uvicorn
+flask
 langchain
 langchain-google-genai
 langchain-community
